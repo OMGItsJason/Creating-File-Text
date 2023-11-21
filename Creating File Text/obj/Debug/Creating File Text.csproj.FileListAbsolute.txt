@@ -1,0 +1,19 @@
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\bin\Debug\Creating File Text.exe.config
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\bin\Debug\Creating File Text.exe
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\bin\Debug\Creating File Text.pdb
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\Creating File Text.csproj.AssemblyReference.cache
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\FrmFileName.g.cs
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\MainWindow.g.cs
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\App.g.cs
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\Creating File Text_MarkupCompile.cache
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\FrmFileName.baml
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\MainWindow.baml
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\Creating File Text.g.resources
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\Creating_File_Text.Properties.Resources.resources
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\Creating File Text.csproj.GenerateResource.cache
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\Creating File Text.csproj.CoreCompileInputs.cache
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\Creating File Text.exe
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\Creating File Text.pdb
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\FrmRegistration.g.cs
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\Creating File Text_MarkupCompile.lref
+C:\Users\Jason User\Documents\Creating File Text\Creating File Text\obj\Debug\FrmRegistration.baml

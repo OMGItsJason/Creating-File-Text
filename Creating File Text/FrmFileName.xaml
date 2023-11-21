@@ -1,0 +1,46 @@
+﻿<Window
+    x:Class="Creating_File_Text.FrmFileName"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="FrmFileName"
+    Width="500"
+    Height="200"
+    MinWidth="500"
+    MinHeight="200"
+    MaxWidth="500"
+    MaxHeight="200"
+    WindowStartupLocation="CenterScreen"
+    WindowStyle="ToolWindow"
+    mc:Ignorable="d">
+    <StackPanel VerticalAlignment="Center" Orientation="Vertical">
+
+        <TextBlock
+            Margin="50,0,0,0"
+            FontFamily="Arial"
+            FontSize="18"
+            Text="Enter File Name" />
+
+        <TextBox
+            x:Name="TxtFileName"
+            Width="400px"
+            Height="50px"
+            Margin="0,10,0,0"
+            VerticalContentAlignment="Center"
+            FontFamily="Arial"
+            FontSize="20" />
+
+        <Button
+            x:Name="BtnOkay"
+            Width="150px"
+            Height="50px"
+            Margin="0,10,0,0"
+            Click="BtnOkay_Click"
+            Content="Okay"
+            FontFamily="Arial"
+            FontSize="28"
+            FontWeight="Bold" />
+
+    </StackPanel>
+</Window>
